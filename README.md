@@ -1,9 +1,12 @@
 <h1 align="center">Simple Advanced Apps - Kotlin</h1>
 
 <p align="center">
-  <a href="https://android-arsenal.com/api?level=23"><img alt="API" src="https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat"/></a>
-  <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-1.8.0-blue"/></a>
+ <a><img alt="Min SDK" src="https://img.shields.io/badge/Min SDK-24-020290?logo=android&logoColor=white"/></a>
+ <a><img alt="Target SDK" src="https://img.shields.io/badge/Target SDK-34-0EB265?logo=android&logoColor=0EB265"/></a>
+ <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-1.8.0-blue?logo=kotlin&logoColor=white"/></a>
 </p>
+
+- [Kotlin New Code Version](https://github.com/selimdawa/SimpleAdvancedAppsKotlin/)
 
 # `.0 Main` :
 
